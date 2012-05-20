@@ -1,0 +1,3 @@
+title: FCKeyphrase
+author_email: author@email.com
+require_feature: [ sciverse, ScienceDirect, dynamic-height ]

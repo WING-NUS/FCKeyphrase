@@ -1,0 +1,7 @@
+source "http://rubygems.org"
+gem "activerecord", "~>3.1.3"
+gem "mysql2"
+gem "json"
+gem "escape", "~>0.0.4"
+gem "trollop"
+gem "nokogiri", "~>1.5.0"

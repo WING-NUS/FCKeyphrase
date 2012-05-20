@@ -1,0 +1,29 @@
+Files
+
+====================
+Gemfile*                - Used for bundler
+README.txt              - This file
+database.yml            - Not included in repo. This file should contain
+                          database configurations written in YAML. Keys needed
+                          are host, database, username, password, and socket.
+document.rb             - ActiveRecord class to represent a document. Used to
+                          cache keyphrases (stored in YAML) using DOI as an
+                          index key
+document_controller.rb  - Controller class to manage Document instances
+generate_xml.rb         - Script file used to generate the keyphrase.xml
+                          definition file
+keyphrase.js            - Used by generate_xml.rb to generate the XML file
+keyphrase.rhtml         - Used by generate_xml.rb to generate the XML file
+keyphrase.yaml          - Misc prefs used by generate_xml.rb to generate the
+                          XML file
+prepare_database.sql    - SQL commands to build the table for the cache
+
+====================
+public Directory        - Only this directory should be made publicly visible.
+                          The other scripts above should be placed in a separate
+                          location, e.g. just symlink the public directory to a public
+                          location.
+keyphrase.cgi           - cgi script to handle requests. If only a doi is
+                          supplied, an empty string is returned if the
+                          document is not already in the cache. To process a
+                          document, supply the cgi with the text as well

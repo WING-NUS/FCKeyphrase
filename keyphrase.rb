@@ -10,7 +10,7 @@
 
 class Keyphrase
 
-  KPEXTRACTOR_CMD = "ruby path_to_extractor.rb"
+  KPEXTRACTOR_CMD = "ruby #{File.expand_path(File.dirname(__FILE__)) + "/extractor/bin/KPExtractor.rb"}"
   TMP_DIR = "/tmp/FCKeyphrase_"
   NON_KEYPHRASES = %w{results}
 

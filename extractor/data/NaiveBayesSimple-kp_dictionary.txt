@@ -1,0 +1,3119 @@
+real-time multimedia stream --- 1
+vertex-cover auction --- 1
+pthinc --- 1
+index techniqu --- 1
+topic distanc --- 1
+competit analysi --- 2
+weakli domin strategi iter elimin --- 1
+context-awar --- 1
+wit --- 1
+transform oper --- 1
+group interact --- 1
+node-deduct process --- 1
+new stream --- 1
+effici cach system --- 1
+stackelberg --- 1
+novel featur --- 1
+contentbas imag retriev --- 1
+web product --- 1
+gov2 collect --- 1
+contract system --- 1
+queri trail --- 1
+automat speech recognit --- 1
+trust softwar --- 1
+naiv random replac polici --- 1
+modern financi market --- 1
+cach --- 2
+knn approach --- 1
+human interest comput --- 1
+stochast optimis algorithm --- 1
+self-interest agent --- 3
+partial observ markov decis process --- 1
+learn from reveal prefer --- 1
+kei form of interact --- 1
+game of tag --- 1
+on-side mechan --- 1
+energi track --- 1
+pairwis interact --- 1
+web search environ --- 1
+congest --- 1
+interact --- 4
+fault-toler properti --- 1
+hidden-action --- 1
+nearest neighbor --- 1
+freedom of action --- 1
+hierarch taxonomi class --- 1
+doubl count --- 1
+globu --- 1
+non-convex properti --- 1
+opportunist spectrum share --- 1
+follow-up queri --- 1
+concurr relat --- 1
+ad list --- 1
+ad and keyword --- 1
+uncertain domain --- 1
+multipl version space --- 1
+statist knowledg --- 1
+sensor coverag --- 1
+tigr grid comput environ --- 1
+weight inform gain --- 1
+view of accept --- 1
+anonym --- 2
+biomed document --- 1
+larg-file transfer --- 1
+multi-document segment --- 1
+geograph ontolog --- 1
+softwar framework --- 1
+link analysi techniqu --- 1
+speech data retriev --- 1
+game-theoret approach --- 2
+negotiationrang market --- 1
+past queri --- 1
+comput process --- 1
+measur --- 3
+multimedia --- 1
+market effici --- 1
+discoveri --- 1
+gridftp --- 1
+crawl problem --- 1
+level of predict --- 1
+order signal space --- 1
+transit reduct --- 1
+soft real-time channel --- 1
+constant-sum game --- 1
+term vector --- 1
+loss function --- 1
+increment learn --- 1
+metric collect --- 1
+predic-base model --- 1
+bay' theorem --- 1
+network topolog --- 1
+phonet transcript --- 1
+perform of topic segment --- 1
+group and partit --- 1
+hierarch hypercub model --- 1
+collabor concept learn --- 1
+outcom featur of interest --- 1
+structur item graph --- 1
+domain-specif knowledg --- 1
+data-driven approach --- 1
+notion of concess --- 1
+combinatori auction --- 10
+winner determin problem --- 1
+document compact --- 1
+accept view --- 1
+tempor search --- 1
+autocorrel --- 1
+internod commun --- 1
+link-base featur --- 1
+wireless channel --- 1
+norm transit rule --- 1
+interfac design --- 1
+surveil --- 1
+timestamp --- 1
+on-line advertis --- 1
+person search framework --- 1
+search destin --- 1
+clickthrough pattern --- 1
+logic --- 3
+demand function --- 1
+larg-scale invert index --- 1
+neg feedback --- 1
+absolut trader model --- 1
+binari demand game --- 1
+contagion game --- 1
+file share --- 1
+exist system --- 1
+static cach --- 2
+consensusbas method --- 1
+visibl model --- 1
+commun proxi --- 1
+uniform bid strategi --- 1
+argument --- 5
+payment maxim --- 1
+user prefer --- 1
+context awar --- 2
+term weight --- 2
+document disjoint --- 1
+modul --- 1
+ned accuraci --- 1
+text categor --- 1
+vocabulari --- 1
+negoti materi --- 1
+web spam --- 1
+myopic algorithm --- 1
+polynomi --- 1
+parallel --- 2
+sell --- 1
+document process --- 1
+user-center adapt inform retriev --- 1
+mobil wireless pda --- 1
+approxim tempor coalesc --- 1
+replac polici --- 1
+ransub --- 1
+quick overview --- 1
+behavior --- 1
+databas --- 1
+governor agent --- 1
+finit set of observ --- 1
+classifi --- 1
+distribut index --- 2
+prng method --- 1
+condit commit --- 1
+domain-specif rank --- 1
+random mechan --- 1
+tag game --- 1
+object storag system --- 1
+voip conferenc system --- 1
+polynomi-time algorithm --- 1
+teamag --- 1
+cycl formul --- 1
+bid framework --- 1
+two-side search --- 1
+dynam base control --- 2
+expert find task --- 1
+classic mechan --- 1
+keyword search --- 1
+complex suppli-chain scenario --- 1
+inform-seek experi --- 1
+bayesian network model --- 1
+prophet --- 1
+exchang --- 1
+depend --- 2
+fault toler --- 1
+addit queri keyword --- 1
+distribut process --- 1
+high-bandwidth data distribut --- 1
+xcg metric reward retriev --- 1
+barter-exchang market --- 1
+time order --- 1
+diverg of valu --- 1
+minsat --- 1
+vote rule --- 1
+correl --- 2
+comput biologi --- 1
+answer and post list --- 1
+semi-static compress --- 1
+visual media --- 1
+enhanc feedback model --- 1
+reinforc learn --- 3
+geograph rout --- 1
+optim --- 3
+semant align --- 1
+name-page find task --- 1
+cooper and teamwork --- 1
+benefit --- 1
+estim uncertainti --- 1
+cocit similar --- 1
+disjunct cea --- 1
+princip-agent model --- 2
+collabor target detect --- 1
+maximum and minimum amount --- 1
+cooper game theori --- 1
+result --- 1
+iter combinatori exchang --- 1
+context-sensit languag --- 1
+costli environ --- 1
+posterior distribut --- 1
+probabilist inform retriev --- 1
+malwar --- 1
+idl time of the processor --- 1
+high-fidel displai --- 1
+degrad of result qualiti --- 1
+spam filter --- 2
+question topic --- 1
+meaning cluster label --- 1
+video encod/decod --- 1
+import ratio --- 1
+threshold strategi --- 1
+self-adapt --- 1
+revenu-optim rank --- 1
+optim criterion --- 1
+document map --- 1
+blast search --- 1
+richer class of posit auction --- 1
+remot server layer --- 1
+optim mechan --- 1
+co-oper --- 1
+social commit --- 1
+k-mean cluster --- 1
+absenc of clear incent --- 1
+inform retriev --- 17
+self-price posit auction --- 1
+effici correl --- 1
+failur caus --- 1
+model qualiti --- 1
+wireless data broadcast --- 1
+centroid prototyp --- 1
+rank function --- 2
+minimum feedback --- 1
+dft --- 1
+biolog sequenc comparison --- 1
+voic over ip --- 1
+user profil --- 1
+number of bit --- 1
+global consist --- 1
+spectral analysi --- 1
+load-depend resourc failur --- 1
+innov --- 1
+metricscontain --- 1
+author assign --- 1
+receiv-driven approach --- 1
+intranet --- 1
+stack --- 1
+latenc compens --- 1
+comput poker --- 1
+equilibrium find --- 1
+commun complex --- 3
+poisson process --- 1
+air traffic control --- 1
+name entiti --- 1
+singl-good multi-unit alloc problem --- 1
+neighborhood --- 1
+perform predict --- 1
+social reason --- 2
+text edit --- 1
+electron commerc --- 2
+rf interfer --- 1
+task analysi --- 1
+tunabl spatial replic --- 1
+satellit transmitt --- 1
+shaplei valu --- 4
+stori class --- 1
+voip --- 2
+decis-make --- 1
+clear incent absenc --- 1
+topic segment perform --- 1
+pull base data access --- 1
+truth mechan --- 1
+jensen-shannon diverg --- 1
+top-rank sentenc --- 1
+onlin search market --- 1
+emerg protocol --- 1
+centroid-base method --- 1
+context-awar comput --- 1
+truth mechan design --- 1
+slot alloc --- 1
+dynam program-base algorithm --- 1
+local pda web browser --- 1
+multi-tier system --- 1
+privaci enhanc technolog --- 1
+conflict --- 1
+distanc measur --- 2
+hide web crawl --- 1
+topic segment --- 1
+case-insensit search --- 1
+idf --- 1
+compact represent --- 1
+tempor heterogen --- 1
+bboard benchmark --- 1
+control --- 1
+interact goal --- 1
+data center migrat --- 1
+attribut encrypt --- 1
+storag per devic --- 1
+autom negoti --- 4
+hyperplan --- 1
+privaci sensit decis --- 1
+domain of interest --- 1
+consecut payment bound --- 1
+webkb and cora benchmark --- 1
+document rout --- 1
+indivis issu --- 1
+regress --- 1
+new method of estim agent reward --- 1
+search-base advertis auction --- 1
+hidden web crawler --- 1
+quantiz --- 1
+optim problem --- 1
+market-base system --- 2
+ration --- 2
+topic-specif domain --- 1
+local-preserv geograph hash --- 1
+decentr incent compat mechan --- 1
+case-base polici --- 1
+domin strategi --- 2
+centralis optim alloc --- 1
+rpc modul --- 1
+stop word --- 1
+implicit user model --- 1
+end-to-end loss recoveri --- 1
+p2p network --- 1
+mrf --- 1
+implicit feedback inform --- 1
+homogen architectur --- 1
+stv --- 1
+order match --- 1
+on-board plan --- 1
+track --- 1
+token scheme --- 1
+imposs result --- 1
+local --- 3
+distribut-base locat estim --- 1
+common global memori --- 1
+term reweight approach --- 1
+process support --- 1
+price-anticip scheme --- 1
+smart market --- 1
+semant orient of product evalu --- 1
+featur categor --- 1
+composit --- 1
+featur map --- 1
+laboratori-base studi --- 1
+factor analysi --- 1
+reput mechan --- 2
+converg to equilibrium --- 1
+case-base reason --- 2
+content-base spam detect --- 1
+paramet estim --- 1
+present term --- 1
+concurr condit --- 1
+market probabl --- 1
+singl pseudo term --- 1
+seller --- 1
+cosmic middlewar --- 1
+con --- 1
+specifi search --- 1
+plan agent --- 1
+effect probabl assess --- 1
+intra-flow loss control --- 1
+distribut --- 2
+futur behavior --- 1
+reput valu --- 1
+perform indic --- 1
+metada --- 1
+predict behavior model --- 1
+doubl auction format --- 1
+jal --- 1
+distribut access control --- 2
+heurist perform --- 1
+divers econom interact --- 1
+distribut inform retriev --- 1
+represent --- 1
+kei predistribut --- 1
+rout --- 2
+disposit --- 1
+inform search --- 2
+referr system --- 1
+edg-travers heurist --- 1
+larg span of time --- 1
+unsupervis cluster --- 2
+formal for repres organiz structur --- 1
+overlai mesh --- 1
+hyperbol discount --- 2
+combin --- 1
+distribut machin learn --- 1
+mrr --- 1
+linear program --- 1
+top relev document posit --- 1
+cot --- 1
+complex digit librari --- 1
+constraint --- 4
+equilibrium outcom --- 1
+term frequenc vector --- 1
+replica select --- 1
+pc cluster --- 1
+nondecreas cost function --- 1
+threshold function --- 1
+prefer elicit problem --- 1
+group commun --- 1
+commit machin --- 1
+mutual bid bond --- 1
+price of unaccount --- 1
+superaddit game --- 1
+risk --- 1
+jdbc driver --- 1
+buyer and seller --- 2
+connector --- 1
+individu collect --- 1
+unlimit suppli --- 1
+collabor document --- 1
+comput of human interest --- 1
+power of random --- 1
+fat shatter dimens --- 1
+dialogu --- 1
+indistinguish --- 1
+bet --- 2
+histori collect --- 1
+queri classif --- 2
+norm inconsist --- 1
+psycholog affin --- 1
+linear implic --- 1
+interrupt manag --- 1
+applic level rout --- 1
+differenti servic --- 1
+gaussian --- 2
+varianc --- 1
+selfish wireless network --- 1
+author inform --- 1
+price search keyword --- 1
+dht base uddi registri hierarchi --- 1
+price of anarchi --- 3
+rumour propog --- 1
+chariti support --- 1
+good exchang --- 1
+pre-defin abstract --- 1
+grid rpc system --- 1
+secur publish/subscrib system --- 1
+cross-edg pseudotre --- 1
+invers cluster --- 1
+notion of plausibl --- 1
+search engin log --- 1
+synchron concurr program --- 1
+keyword --- 1
+lookup-base approach --- 1
+action-item detect --- 1
+permut bet --- 1
+bid algorithm --- 1
+equal vote abil --- 1
+empir analysi --- 1
+speech act identif --- 1
+desktop profil --- 1
+logic and formal model of agenc and multi-agent system --- 1
+prohibit --- 1
+heurist function --- 1
+decentr adapt servic --- 1
+hypertre decomposit --- 1
+keyword auction --- 1
+resourc reserv mechan --- 1
+order game isomorph --- 1
+disjoint union --- 1
+sog quantiz --- 1
+hybrid adapt resourcemanag middlewar --- 1
+term frequenc --- 1
+content-base and name-page find --- 1
+file share system --- 1
+server --- 1
+commit --- 2
+cyberinfrastructur develop project --- 1
+paramet --- 1
+secur --- 2
+mechan design --- 10
+decis tree --- 1
+semant similar --- 1
+elimin --- 1
+passag map --- 1
+arbitrari partial inform --- 1
+speech recogn --- 1
+option --- 1
+coalit game --- 2
+brag-and-moan model --- 1
+unit wait cost --- 1
+cooper web cach --- 1
+budget base algorithm --- 1
+concav bid --- 1
+epidem protocol --- 2
+context provid --- 1
+chao --- 1
+function estim --- 1
+influenc diagram --- 1
+administr domain --- 1
+componentbas system --- 1
+leaf --- 1
+index --- 1
+label --- 1
+multipl criterion framework --- 1
+belief --- 2
+jal syntax and semant --- 1
+applic program interfac --- 1
+expans process --- 1
+discurs paradox --- 1
+imped coupl strategi --- 1
+kleinberg' hit algorithm --- 1
+monolingu queri suggest --- 1
+share environ --- 1
+synchron replic --- 1
+syntax and semant of jal --- 1
+desir outcom --- 1
+version document collect --- 1
+benefici action --- 1
+confid measur --- 1
+gener algorithm --- 1
+interact behavior --- 1
+cluster hypothesi --- 1
+opportunist network --- 1
+sensor number --- 1
+sensit of voip traffic --- 1
+doubl auction --- 1
+dynam inﬂuenc diagram --- 1
+mobil object framework --- 1
+prune --- 1
+signal tree --- 1
+polynomi function min-cost flow problem --- 1
+perfect competit --- 1
+network flow game --- 1
+electron market --- 1
+volum of new --- 1
+distribut system-distribut applic --- 1
+predictor predict power --- 1
+classic princip-agent --- 1
+process execut --- 1
+incomplet inform --- 2
+energi neutral oper --- 1
+sequenti game --- 1
+new evalu methodolog --- 1
+bluscreen --- 1
+cortex --- 1
+overlai network --- 1
+token --- 1
+extend hierarch task structur --- 1
+commit-base semant --- 1
+event --- 1
+util --- 5
+reach consensu mean --- 1
+datacentr storag system --- 1
+onlin market --- 1
+distribut middlewar --- 1
+network enabl dvr --- 1
+learn theori --- 1
+fault-toler --- 1
+meehl index --- 1
+partit method --- 1
+mutual of expect --- 1
+accept criterion --- 1
+long-term servic --- 1
+util function --- 2
+calib --- 1
+speech retriev --- 1
+multi-tier sensor network --- 1
+desir object --- 1
+rocchio --- 1
+gi --- 1
+fair --- 2
+time-order --- 1
+us of linguist --- 1
+cognit model --- 2
+video playback --- 1
+dynam cach --- 1
+decentr partial observ markov decis process --- 1
+fair connect game --- 1
+maximum span tree --- 1
+geograph context --- 1
+altern slot auction design --- 1
+randomis method --- 1
+relationship of topolog --- 1
+strategi profil --- 2
+voic activ detect --- 1
+adversari classif --- 1
+index method --- 1
+liquid time --- 1
+prioriti --- 1
+behavior evolut and extrapol --- 1
+relev document --- 1
+new event detect --- 1
+predictor relationship --- 1
+pre-gener target list --- 1
+term and compound level analysi --- 1
+agent architectur --- 2
+classic conjunct --- 1
+past encount and transit histori --- 1
+modern execut optim --- 1
+psycholog distort --- 1
+network monitor --- 1
+uddi --- 1
+e-commerc --- 1
+optim resourc schedul --- 1
+featur-base rank --- 1
+blind relev feedback --- 1
+gener function --- 1
+undirect graph --- 1
+opinion pool --- 1
+complex of structur item graph --- 1
+probabilist threshold calibr --- 1
+multiag teamwork --- 1
+link-base rank --- 1
+concurr updat --- 1
+gener knowledg util --- 1
+cost --- 1
+primal graph simplif --- 1
+high-frequenc microstructur signal --- 1
+gener event architectur --- 1
+cost share --- 2
+ontolog --- 5
+cost function --- 1
+group strategyproof --- 1
+cut valu function --- 1
+languag model approach --- 1
+storag replic --- 1
+market microstructur --- 1
+context-base ot --- 2
+organiz program languag --- 1
+document cach --- 2
+adapt filter --- 4
+bayesian risk model --- 1
+multi-valu util function --- 1
+collabor document process --- 1
+affin score --- 1
+altern-time tempor logic --- 1
+quasi-linear function --- 1
+languag model queri expans techniqu --- 1
+dirichlet distribut --- 1
+invalid packet --- 1
+queri expans process --- 1
+precis rate --- 1
+combsum and combmnz strategi --- 1
+vote scheme --- 1
+languag independ --- 1
+prefer elicit --- 3
+great probabl bi-modal --- 1
+increment decis tree --- 1
+intranet search --- 1
+match --- 4
+queri refin --- 1
+flexibl --- 1
+pai per click --- 1
+search advertis --- 1
+proxi-bid system --- 1
+immedi predecessor --- 1
+continu media storag --- 1
+channel order properti --- 1
+markov model --- 1
+top search result --- 1
+crawl polici --- 1
+agent orient program languag --- 1
+agent system secur --- 1
+logic program --- 1
+prospect ant --- 1
+game-base applic --- 1
+rationaliz --- 1
+incom-lipschitz --- 1
+evalu function --- 1
+pairwis kei establish algorithm --- 1
+credibl --- 1
+lan --- 1
+event recognit --- 1
+search engin --- 7
+p-inform environ --- 1
+mirag system --- 1
+kei pool --- 1
+probabl function propag --- 1
+network structur --- 1
+frequent link break --- 1
+degre of parallel --- 1
+baselin model --- 1
+worst-case optim mechan --- 1
+bid languag --- 2
+valu fusion --- 1
+geograph inform retriev --- 1
+coalit format --- 2
+cognit radio --- 1
+id integr --- 1
+media collect --- 1
+seed select algorithm --- 1
+problem of knowledg ambigu --- 1
+network transmiss delai --- 1
+causal-depend --- 1
+effici truth market --- 1
+negoti --- 8
+relev event --- 1
+qo-base servic discoveri --- 1
+verifi monitor --- 1
+multi-organis environ --- 1
+autonom dht --- 1
+institut framework --- 1
+pure strategi --- 1
+energi explor --- 1
+home environ --- 1
+negoti-rang mechan --- 1
+graphic game --- 2
+asymmetr relationship --- 1
+breakpoint polici --- 1
+messagecentr approach --- 1
+composit-base techniqu --- 1
+answer kei --- 1
+fifth contextdimens group-context --- 1
+secur's valu --- 1
+next-price posit auction --- 1
+map relax --- 1
+optim joint polici --- 1
+accept bid price --- 1
+extort --- 1
+bdi-style plan --- 1
+sequenti auction problem --- 1
+wan --- 1
+qualiti guarante approxim --- 1
+network analysi --- 1
+statist --- 1
+competit algorithm --- 1
+ordin util --- 1
+knowledg-base system --- 1
+manag --- 1
+signific word --- 1
+real-time index --- 1
+rp similar --- 1
+arrow logic --- 1
+multi-agent field --- 1
+valid mesh --- 1
+mobil ad-hoc network --- 2
+user level --- 1
+decis theoret approach --- 1
+sensor node --- 1
+stream of new stori --- 1
+semant framework --- 1
+agent-coordin problem --- 1
+popular destin --- 1
+belief notion --- 1
+diverg of econom valu --- 1
+maximum likelihood estim --- 1
+network of influenc diagram --- 1
+swarm intellig --- 2
+timedecai --- 1
+md --- 1
+norm --- 1
+high-end graphic --- 1
+reservoir model --- 1
+judgment aggreg --- 1
+spatial decai aggreg --- 1
+aspect map --- 1
+multi-equilibrium scenario --- 1
+process manag framework --- 1
+proper subset of parent peer --- 1
+queri gener --- 1
+ip multicast --- 1
+uma --- 1
+data fusion problem --- 1
+databas recommend --- 1
+multiattribut util theori --- 1
+contagion on network --- 1
+agent onlin --- 1
+time seri --- 1
+heterogen agent --- 1
+apocrita --- 1
+backtrack --- 1
+bandwidth optim --- 1
+turn track --- 1
+point-distribut index --- 1
+knowledg represent formal --- 1
+trec data set --- 1
+high-perform databas system --- 1
+wide-area network --- 1
+data visual --- 1
+scale and relev --- 1
+mobil user --- 1
+domin --- 2
+budget optim --- 1
+tempor valid --- 1
+histor inform --- 1
+tigr --- 1
+induc weight --- 1
+cycl monoton --- 1
+languag model --- 6
+observ behavior --- 1
+multilater negoti --- 1
+global optim --- 1
+queri polynomi number --- 1
+fulli polynomi-time approxim scheme --- 1
+pure strategi nash equilibrium --- 1
+web search engin implement --- 1
+environ design level --- 1
+axiomat model --- 1
+real-valu function --- 1
+resourc-schedul algorithm --- 1
+archiv --- 1
+frugal --- 1
+higher level represent languag --- 1
+the queri distribut --- 1
+topic-driven text classif --- 1
+weapon type --- 1
+instrument server --- 1
+queue manag --- 1
+trader --- 1
+adversari interact --- 1
+approxim-effici and approximatelystrategyproof auction mechan --- 1
+network design --- 1
+mix strategi --- 1
+multi-hop network --- 1
+suffici of three simultan speaker --- 1
+distribut data structur --- 1
+path exposur --- 1
+combin-valu trade --- 1
+distribut search algorithm --- 1
+document-content overlap --- 1
+gridsim grid simul --- 1
+user studi --- 1
+gear architectur --- 1
+ad relev --- 1
+permut combinator --- 1
+qualiti guarante polici --- 1
+ideal gain vector --- 1
+similar metric --- 1
+bdi --- 3
+log-base evalu --- 1
+bound action space --- 1
+organis --- 1
+aggreg manag layer --- 1
+q-decomposit --- 1
+radic solut --- 1
+schedul-execut --- 1
+auction --- 9
+multi-issu negoti --- 1
+index file --- 1
+multi-agent interact connector-base model --- 1
+bio-molecul --- 1
+optim alloc --- 2
+claim valu --- 1
+rf transmitt --- 1
+nonmonoton --- 1
+overconfid --- 1
+knowledg --- 1
+intermedi node --- 1
+monoton dnf --- 1
+belief-desireintent model --- 1
+market order --- 1
+markov random field --- 2
+collabor author environ --- 1
+pomdp --- 1
+distribut of the queri --- 1
+bucket synchron --- 1
+commun --- 2
+bipartit graph --- 1
+ration behavior --- 1
+hierarch file system --- 1
+search and rescu --- 1
+new index-tree --- 1
+statist learn --- 1
+commun and negoti --- 1
+server utilis --- 1
+seamless mobil --- 1
+miss inform --- 1
+out-of-vocabulari --- 1
+unifi framework --- 2
+emerg situat --- 1
+trade network --- 2
+polynomi-time --- 1
+polici iter --- 1
+seal-bid --- 1
+heurist --- 4
+explicit relev judgment --- 1
+recommend network --- 1
+depend link --- 1
+comparison between model --- 1
+event-base system --- 1
+enhanc web search --- 1
+plan recognit --- 1
+plausibl updat oper --- 1
+self-interest amd --- 1
+sponsor search --- 5
+set partit problem --- 1
+winner-determin --- 1
+social util --- 1
+replica invalid --- 1
+bureau of labor statist --- 1
+complementar --- 1
+high complex whilst --- 1
+learn process --- 1
+potenti function --- 2
+brows-base result interfac --- 1
+multi-unit auction --- 1
+infrastructur --- 2
+complex stochast resourc alloc problem --- 1
+3d object stream --- 1
+game-theoret model --- 1
+non-strateg set --- 1
+zachik --- 1
+variou featur of each queri --- 1
+questionand-answer session --- 1
+queri-specif context --- 1
+hidden web content --- 1
+relev feedback --- 8
+express negoti --- 1
+direct edg --- 1
+flexibl time --- 1
+advanc syntax --- 1
+predict --- 1
+connect --- 1
+probabilist model --- 2
+collabor filter algorithm --- 1
+delai-toler network --- 1
+whitewash --- 2
+activ --- 1
+complex problem --- 1
+servic qualiti --- 3
+drop condit --- 1
+kl-diverg retriev model --- 1
+negoti and argument --- 1
+workﬂow --- 1
+cooper cach --- 1
+ascend-price auction --- 1
+messag transfer delai --- 1
+export error --- 1
+atom --- 1
+evalu --- 2
+activ learn --- 3
+relev --- 3
+grid environ --- 2
+topic cluster --- 1
+budget balanc --- 1
+norm-regul vo --- 1
+perform --- 7
+singl-cross condit --- 2
+crawl web page --- 1
+polynomi demand --- 1
+extern agent --- 1
+overload resourc --- 1
+decentr markov decis process --- 2
+extern corpu --- 1
+payoff vector --- 1
+multi-agent influenc diagram --- 1
+optim bid strategi --- 1
+resourc-schedul --- 1
+goal --- 2
+effect of static cach --- 1
+homogen parallel environ --- 1
+poisson distribut --- 2
+multipl conjunct --- 1
+regul multi-agent system --- 1
+social and behavior scienc-econom --- 1
+plausibl --- 1
+random power --- 1
+matrix factor --- 1
+larg dataset --- 1
+social and behavior scienc --- 1
+end-to-end path --- 1
+new organ --- 1
+queri syntax --- 1
+snippet --- 1
+gaussian kernel smooth --- 1
+project game --- 1
+onlin sequenti decis-make --- 1
+price --- 7
+argument protocol --- 1
+artifici social system --- 4
+inform acquisit --- 1
+relev judgement --- 1
+extern competit --- 1
+model gener --- 1
+schedul --- 6
+rumour propag --- 1
+eigenvalu --- 1
+option-base extens --- 1
+inter-agent commun --- 1
+function ontolog of reput --- 1
+purchas behaviour --- 1
+stranger defect --- 1
+permiss overlap --- 1
+modular interpret system --- 1
+empir and laboratori evid --- 1
+nois probabl --- 1
+gametheoret model --- 1
+core --- 2
+job onlin schedul --- 1
+larg-scale integr of technolog --- 1
+multi-sequenc posit --- 1
+global bid agent --- 1
+cheat-proof mechan --- 1
+seri-parallel network --- 1
+end-to-end workflow composit --- 1
+lexic pattern --- 1
+storag buffer --- 1
+combinatori resourc schedul --- 1
+cach post list --- 1
+queri rank --- 1
+relationship of predictor --- 1
+asymmetr payoff --- 1
+integr negoti --- 1
+loss recoveri and control --- 1
+feedback model --- 1
+vertex cover --- 1
+inter-depend activ --- 1
+molecular mechan --- 1
+transform to linear program --- 1
+individu ration --- 3
+deadlock situat --- 1
+bay-nash equilibrium --- 1
+suffix tree cluster algorithm --- 1
+formal execut semant --- 1
+payment --- 1
+norm system --- 1
+spell correct mechan --- 1
+agent interact --- 1
+intrus detect servic --- 1
+queri translat --- 1
+distribut resourc --- 1
+thin-client --- 1
+agent-base model --- 1
+consist --- 3
+user evalu --- 1
+person search --- 1
+depend f-measur --- 1
+usabl and fair --- 1
+conflict prohibit --- 1
+web archiv --- 1
+cluster-base distribut model --- 1
+toler latenc --- 1
+result qualiti degrad --- 1
+system integr --- 1
+static rank --- 2
+comput chemistri --- 1
+hash-base techniqu --- 1
+countermeasur system --- 1
+cach queri result --- 1
+normal event distribut --- 1
+name entiti reweight mode --- 1
+stem --- 3
+node-hour price --- 1
+mean reciproc rank --- 1
+evalu methodolog --- 1
+trade opportun --- 1
+predict accuraci --- 2
+benchmark --- 2
+proxi --- 2
+distribut algorithm mechan design --- 2
+hypergraph --- 1
+robust score probabilitydens classifi --- 1
+agent's goal --- 1
+integr constraint --- 1
+specif cost --- 1
+resurg onlin advertis industri --- 1
+graph-theoret model --- 1
+formal model of agenc --- 1
+fat shatter --- 1
+hypergraph hg --- 1
+edg formul --- 1
+peer-to-peer system --- 2
+cost share game --- 1
+reput format --- 1
+distribut cluster applic --- 1
+distribut share cluster --- 1
+local lag --- 1
+log-base method --- 1
+human-center teamwork --- 1
+prioriti queue --- 1
+decis make --- 4
+distribut profit --- 1
+highperform comput --- 1
+freepastri framework --- 1
+peer-to-peer inform retriev --- 1
+co-alloc --- 1
+individu decis make process --- 1
+belief manag method --- 1
+vote --- 2
+emerg behavior --- 2
+lower-bandwidth wide-area network --- 1
+index merg --- 1
+paramet nomin valu --- 1
+effici overlai structur --- 1
+forecast --- 2
+standard continu limit-order mechan --- 1
+peer to peer search network --- 1
+multi-agent learn --- 4
+messag orient middlewar --- 1
+mpeg-7-base retriev --- 1
+precomput final result page --- 1
+queri model --- 1
+distribut artifici intellig --- 1
+vertic search --- 1
+multiag learn --- 1
+polici search --- 1
+vce --- 1
+automat initializ modul --- 1
+distribut real-time embed system --- 1
+search behavior --- 1
+time machin --- 1
+web browser --- 2
+util-base inform distil --- 1
+mutual inform --- 1
+privaci requir --- 1
+vcg --- 1
+top-k ad --- 1
+complex polynomi transform --- 1
+structur item graph complex --- 1
+link structur --- 1
+exclus transform --- 1
+resourc select of distribut text inform retriev --- 1
+bid strategi --- 1
+poisson-base probabl --- 1
+node local --- 1
+non-dictatorship --- 1
+bi-partit graph --- 1
+end-to-end model --- 1
+grid middlewar --- 1
+pagerank --- 4
+rocchio algorithm --- 1
+clickthrough inform --- 1
+sequenc of trade --- 1
+unigram languag model --- 1
+simpl threshold --- 1
+util of the product --- 1
+word trajectori --- 1
+banzhaf power index --- 1
+institut norm --- 1
+bayesian method --- 1
+keyword stuf --- 1
+pervas comput --- 2
+dead-reckon --- 2
+activ alloc --- 1
+traffic flow --- 1
+clickthrough invers --- 1
+fragment object --- 1
+prune techniqu --- 1
+contract action --- 1
+taxonomi --- 1
+hierarch method --- 1
+autom market maker --- 2
+uniform resourc locat --- 1
+mmog --- 1
+queri select --- 1
+multi sourc and sink --- 1
+multi-link negoti --- 2
+distribut search control --- 1
+hedg --- 2
+negoti protocol --- 1
+revenu-maxim solut --- 1
+wireless sensor network --- 5
+web brows perform --- 1
+contextu advertis --- 2
+competit ratio --- 1
+multi-attribut model --- 1
+hiker --- 1
+logic agent architectur --- 1
+replica --- 1
+linear vcg redistribut mechan --- 1
+group editor --- 1
+topic taxonomi --- 1
+payoff per share --- 1
+autom trade agent --- 1
+time point sequenc --- 1
+keyword bid --- 1
+repli --- 1
+sentient comput --- 1
+aerial vehicl --- 1
+reput system --- 2
+queri concept --- 1
+wmu --- 1
+resourc restrict --- 1
+search queri --- 1
+combinatori bet --- 3
+demand game --- 1
+screen resolut --- 1
+perterm smooth --- 1
+observ finit set --- 1
+carrier-grade spectrum manag --- 1
+collect space --- 1
+proxi-base game architectur --- 1
+origin oper --- 1
+data fusion --- 3
+teamwork --- 1
+strategi --- 2
+anti-instanti --- 1
+administr isol --- 1
+feedback distribut --- 1
+expect cost bound --- 1
+comput entiti --- 1
+induct gener --- 1
+extend abduct --- 1
+individu prefer --- 1
+prune-base perform optim --- 1
+spatial scope --- 1
+oper transform --- 1
+cleanup method --- 1
+strong price of anarchi --- 1
+markov decis process --- 2
+limit compat --- 1
+independ assumpt --- 1
+competit --- 1
+multi-domain --- 1
+page dwell time --- 1
+reactiv modul --- 1
+scalabl --- 1
+singl sourc and sink --- 1
+alloc --- 1
+individu ration mechan --- 1
+econom theori --- 1
+multi-agent environ --- 1
+social-choic function --- 1
+cach dynam databas content --- 1
+honeycomb structur --- 1
+central plan --- 1
+train process --- 1
+monetari transfer --- 1
+strateg behavior --- 2
+cach problem --- 1
+linkag adjac matrix --- 1
+stackleberg set --- 1
+goal construct --- 1
+client-server architectur --- 1
+comput financ --- 1
+asynchron commun --- 1
+social relationship --- 1
+intrigu heurist --- 1
+probabl theori --- 2
+local commun mechan --- 1
+econom effici --- 1
+margin revenu bound --- 1
+fraction mechan us --- 1
+possibl agreement zone --- 1
+evolut --- 1
+truth --- 2
+combin content and link --- 1
+agenc formal model --- 1
+spatiotempor correl --- 1
+multitext system --- 1
+multiag system --- 15
+flash storag --- 1
+reusabl --- 1
+time warp --- 1
+format inform --- 1
+character --- 1
+top-match page --- 1
+auction theori --- 1
+bilater and multilater instanti --- 1
+coordin --- 4
+histori of past encount and transit --- 1
+inex --- 1
+abduct framework --- 1
+fair axiom --- 1
+lovin stemmer --- 1
+word index --- 1
+consist mainten --- 1
+emerg intellig --- 1
+hypertre-base decomposit method --- 1
+partial mix --- 1
+hybrid control techniqu --- 1
+node --- 2
+condit propos --- 1
+moral hazard --- 1
+hepat --- 1
+group-to-group relat --- 1
+condit probabl --- 1
+margin diminish return --- 1
+effici market hypothesi --- 1
+expert colleagu --- 1
+logist regress framework --- 1
+gain --- 1
+multiplex --- 1
+inform market --- 3
+homogen poisson process --- 1
+expert aggreg --- 1
+web summari --- 1
+rel error --- 1
+gp receiv --- 1
+signific improv --- 1
+server network --- 1
+mandatori mutual bid bond --- 1
+boost --- 1
+gener-frequenc polici --- 1
+bm25f --- 1
+cross-layer --- 1
+zone of possibl agreement --- 1
+short-term context --- 1
+abstract constraint --- 1
+client authorit approach --- 1
+expertis --- 1
+agent --- 19
+index rang-base valu --- 1
+protocol framework --- 1
+search engin retriev --- 1
+locationimplicit queri --- 1
+intern competit --- 1
+invert file index --- 1
+endpoint --- 1
+gain from cooper --- 1
+reveal prefer --- 1
+bid-taker's exposur problem --- 1
+mean averag precis --- 5
+mobil object --- 1
+dynam pari-mutuel market --- 1
+energi harvest system --- 1
+lower bound --- 1
+event correl --- 1
+inform specul --- 1
+lp --- 1
+adapt algorithm --- 2
+packageblast --- 1
+domin strategi implement --- 1
+exponenti-time algorithm --- 1
+queri load --- 1
+network delai --- 1
+equilibrium strategi --- 1
+search context --- 1
+fraction domain --- 1
+lr --- 1
+sequenti decis-make --- 1
+data grid applic --- 1
+two-stage smooth --- 1
+network of agent --- 1
+transplant --- 1
+content distribut network --- 1
+organiz-self design --- 1
+normal form game --- 1
+monothet cluster algorithm --- 1
+selfinterest agent --- 1
+random graph --- 1
+xml configur file --- 1
+nonlinear dynam system --- 1
+cheat --- 2
+ensembl kalman filter --- 1
+hypothesi exchang protocol --- 1
+branch-on-bid tree --- 1
+contact trace --- 1
+human interest --- 1
+beacon --- 1
+voic-over-ip --- 1
+multivari bernoullu distribut --- 1
+zebroid simplifi instanti --- 1
+simplif of the primal graph --- 1
+distribut inform --- 1
+comput complex of match --- 1
+bound --- 2
+function --- 1
+graphic model --- 1
+interact ir --- 1
+text mine --- 1
+share belief map --- 2
+strong equilibrium --- 1
+electron marketplac --- 1
+reciproc rank --- 1
+joint deliber --- 1
+gener of model --- 1
+design --- 2
+mpu --- 1
+global pagerank --- 1
+real-time video distribut system --- 1
+immedi predecessor track --- 1
+multi-parti commun --- 1
+partial specif --- 1
+agent network --- 1
+xml ir --- 1
+clean-slate architectur design --- 1
+content inform --- 1
+pseudo-relev feedback --- 2
+vickrei auction --- 1
+genr-classif --- 1
+truth implement --- 1
+document cluster --- 2
+terminolog rich --- 1
+linear combin --- 1
+market --- 1
+author --- 2
+mean error --- 1
+new corpu --- 1
+document state --- 1
+expert opinion --- 1
+audio servic framework --- 1
+process time --- 1
+slammer worm --- 1
+statu --- 1
+interact adhoc search --- 1
+notion of belief --- 1
+rendezv --- 1
+hierarch process execut --- 1
+bullet --- 1
+user interact --- 1
+network of server --- 1
+trec --- 1
+forward auction --- 1
+linguist data consortium --- 1
+vbyte code scheme --- 1
+connect game --- 1
+global co-occurr statist --- 1
+tree --- 1
+archiv storag --- 1
+interest nugget --- 1
+zebroid --- 1
+dynam semant --- 1
+multi-dimension schedul --- 1
+bayesian game --- 3
+commun time --- 1
+non-decreas valuat distribut --- 1
+organiz self-design --- 1
+sensorboard --- 1
+hidden web --- 1
+reput-base adapt --- 1
+nash implement --- 1
+inform need --- 1
+resourc represent --- 1
+specul --- 2
+round --- 1
+multi-player onlin game --- 1
+dilemma --- 1
+dynam parimutuel market --- 1
+complementari slack --- 1
+influenc diagram network --- 1
+heterogen of resourc --- 1
+link analysi --- 2
+decis rule --- 1
+local techniqu --- 1
+topolog relationship --- 1
+action freedom --- 1
+tempor path --- 1
+failur --- 1
+adapt polici --- 1
+multipl web forum --- 1
+busi process workflow --- 1
+resourc heterogen --- 1
+donat to chariti --- 1
+qualiti --- 1
+organiz and commun abstract --- 1
+extern thesauru --- 1
+grid architectur --- 1
+context qualiti --- 1
+revenu --- 1
+bia --- 1
+n-gram --- 1
+confer server --- 1
+static indexprun techniqu --- 1
+queue problem --- 2
+pool predict --- 1
+trade reduct --- 1
+argument-base negoti --- 1
+peer-to-peer stream --- 2
+adapt multi-polici grid servic --- 1
+new learn algorithm --- 1
+nonmanipul mechan --- 1
+caus of failur --- 1
+advanc search featur --- 1
+cognit load theori --- 1
+promot --- 1
+pre-commit --- 1
+multi-attribut coalit game --- 1
+replic --- 1
+peer-to-peer distribut model --- 1
+predictor --- 1
+mvf --- 1
+aggreg auction --- 1
+relat databas --- 1
+tempor and strateg logic --- 1
+bid --- 5
+packet-switch network --- 1
+scout --- 1
+crawl --- 1
+uniqu and fair solut --- 1
+search success --- 1
+bound percept --- 1
+person --- 2
+prison dilemma --- 1
+reciperesultset --- 1
+optimist synchron --- 1
+environment energi --- 1
+optim condit commit --- 1
+mutabl virtual content --- 1
+event-condit-action --- 1
+optimist system --- 1
+scalabl issu --- 1
+pervas web --- 1
+rank-by-bid --- 1
+context request step --- 1
+new term-depend smooth algorithm --- 1
+decis function --- 1
+queri specif --- 1
+redund --- 2
+role --- 1
+macintosh os x --- 1
+behavior axiom --- 1
+diffus process --- 1
+corner-cube retro-reflector --- 1
+observ set --- 1
+listen-detect-assembl-report protocol --- 1
+event detect --- 1
+gau --- 1
+express chariti donat --- 1
+hass diagram --- 1
+queri gener probabilist model --- 1
+joint factor --- 1
+simultan second-price auction --- 1
+real-time corba specif --- 1
+monoton --- 1
+pairwis partnership --- 1
+lazi re-aggreg --- 1
+receiv-driven parent select --- 1
+peer-to-peer vehicular ad-hoc network --- 1
+softwar connector --- 1
+ram --- 1
+abort-method --- 1
+servic request --- 1
+sensor and actuat --- 1
+spectrum sens --- 1
+rout decis --- 1
+interest domain --- 1
+transmiss --- 1
+enforc commit --- 1
+switch cost --- 1
+agglom cluster --- 1
+us of fraction mechan --- 1
+nonlinear fusion method --- 1
+servic interfac --- 1
+analyt character --- 1
+xgrid environ --- 1
+intern state --- 1
+servic --- 1
+manet rout protocol --- 1
+loss conceal --- 1
+bluetooth --- 1
+encrypt --- 2
+bayesian classifi --- 1
+larg-scale distribut network --- 1
+social welfar --- 2
+hydrocarbon reservoir simul --- 1
+distribut partial observ markov decis problem --- 1
+hyperlink analysi --- 1
+dpm --- 2
+deploy issu --- 1
+distribut web-servic discoveri architectur --- 1
+independ structur --- 1
+maximum entropi --- 1
+elicit problem --- 1
+databas content --- 1
+bound-degre tree --- 1
+massiv uva-base deploment --- 1
+asymptot behavior --- 1
+number of sensor --- 1
+relat order game isomorph abstract transform --- 1
+negoti chain --- 1
+latenc --- 1
+human reader --- 1
+read-write oper --- 1
+multipl auction --- 1
+multi-criterion decis make --- 2
+polynomi kei --- 1
+case --- 1
+optim size --- 1
+predict power of predictor --- 1
+stranger adapt --- 1
+name entiti recognit algorithm --- 1
+autom model select --- 1
+partial observ multiag environ --- 1
+local optim solut --- 1
+content-base --- 1
+render --- 1
+privaci issu --- 1
+sleep configur protocol --- 1
+cosin similar --- 2
+multiag plan --- 1
+rm3 --- 1
+pheromon flavor --- 1
+p2p search --- 1
+queri flood --- 1
+greedi algorithm --- 1
+financi privaci --- 1
+multiplay game --- 1
+agent reason --- 1
+sentenc-level classifi --- 1
+neighbor discoveri protocol --- 1
+queri string --- 1
+accur state --- 1
+e-mail --- 1
+express --- 1
+term zebroid --- 1
+current queri --- 1
+web graph --- 1
+queri suggest --- 1
+mac os x --- 1
+train rank model --- 1
+cost-sensit learn --- 1
+generos --- 1
+rtc --- 1
+product util --- 1
+target detect --- 1
+search cost --- 1
+trade in financi instrument base on logic formula --- 1
+outcom --- 1
+rang --- 2
+open grid servic architectur --- 1
+sand --- 1
+feedback method --- 1
+busi-to-consum auction --- 1
+leadership --- 1
+queri-document term mismatch --- 1
+co-alloc strategi --- 1
+first-price auction --- 1
+incom file --- 1
+seal-bid auction --- 1
+job schedul --- 2
+distribut hash tabl --- 2
+locat track system --- 1
+margin contribut --- 1
+model --- 2
+rank-by-revenu --- 1
+ir evalu --- 1
+mobjex --- 1
+dynam protocol replac --- 1
+visual descriptor --- 1
+static cach effect --- 1
+vehicular network --- 2
+sequenc of time point --- 1
+linear regress --- 1
+multipl criterium approach --- 1
+uniqu qualiti --- 1
+approxim --- 3
+rank --- 7
+web search interact --- 1
+supervis learn --- 1
+longest avail prefix --- 1
+incent compat --- 3
+bid term --- 1
+distribut constraint satisfact and optim --- 1
+gtr --- 1
+privaci --- 2
+relax of map --- 1
+logist transform model --- 1
+localeffect game --- 1
+sensornet testb --- 1
+simplifi model --- 1
+geograph hash tabl --- 1
+similar threshold paramet --- 1
+agent interact structur --- 1
+digit pheromon --- 1
+recommend --- 1
+link spam --- 1
+predict relev prefer --- 1
+manag schedul --- 1
+broad expertis retriev --- 1
+interest outcom featur --- 1
+penalti ratio --- 1
+hybrid discoveri scheme --- 1
+gener second price --- 1
+precis measur --- 1
+multi-agent system technolog --- 1
+domain specif knowledg --- 1
+spatial index --- 1
+contagion threshold --- 1
+explicit rf system --- 1
+increment algorithm --- 1
+vocabulari independ system --- 1
+singl document --- 1
+locat sens --- 1
+machin learn techniqu --- 2
+futur atm concept evalu tool --- 1
+innov diffus --- 1
+polynomi time --- 2
+remot access --- 1
+mobil opportunist network --- 1
+ndcg --- 1
+pre-negoti --- 1
+term depend smooth --- 1
+moralhazard --- 1
+implement --- 1
+search engin queri --- 1
+tractabl case --- 1
+zero laxiti --- 1
+search precis --- 1
+spatial autocorrel --- 1
+autom abstract --- 1
+negoti base mechan --- 1
+imag search queri --- 1
+adapt resourc manag --- 1
+subset bet --- 1
+number of player --- 1
+network system monitor --- 2
+rank model tune --- 1
+virtual organ --- 2
+relev inform --- 1
+threshold bid --- 1
+rel trader model --- 1
+fault manag --- 1
+vote theori --- 1
+corba --- 1
+retriev accuraci --- 1
+transfer probabl --- 1
+realist mobil trace --- 1
+user model --- 1
+imag retriev --- 1
+rank aggreg --- 1
+word sens disambigu --- 1
+correct --- 1
+classifi combin --- 1
+content deliveri --- 1
+player power --- 1
+vcg outcom function --- 1
+correct guarante --- 1
+rank of queri --- 1
+global regular --- 1
+introductori questionnair --- 1
+remot replica --- 1
+comput tree logic ctl --- 1
+nash equilibrium profil --- 1
+determinist algorithm --- 1
+learn techniqu --- 2
+onlin system --- 1
+avail latenc --- 1
+queue manag algorithm --- 1
+geograph separ --- 1
+solar panel --- 1
+web search behavior --- 1
+complet axiomatis --- 1
+navig behavior --- 1
+contract monitor --- 1
+p2p system --- 1
+hidden markov model --- 1
+search result snippet --- 1
+updat mechan --- 1
+cross-languag inform retriev --- 1
+recommend system --- 5
+branch time --- 1
+mechan --- 2
+context sensit queri stem --- 1
+tempor constraint --- 3
+paramet set --- 1
+maximum sequenti path cost --- 1
+donat-clear --- 1
+uncertainti --- 1
+inform architectur --- 1
+onlin schedul of job --- 1
+resourc cost function --- 1
+co-occurr --- 1
+predict level --- 1
+gai base auction --- 1
+select-share --- 1
+connect individu --- 1
+granular level --- 1
+checkpoint problem --- 1
+gener connect game --- 1
+link graph measur --- 1
+disk layer --- 1
+strateg applic area --- 1
+event resolut --- 1
+distribut artifici intellig-multiag system --- 1
+web servic --- 2
+inlink --- 1
+human factor --- 2
+induct hypothesi --- 1
+speech act --- 1
+web commun --- 1
+agent negoti --- 1
+coremembership --- 1
+on-to-on negoti --- 1
+trust --- 2
+integ-payoff graphic game g --- 1
+dynamo --- 1
+passag rank --- 2
+cheap pseudonym --- 1
+implicit feedback --- 2
+java secur model --- 1
+heurist approach --- 1
+terminolog axiom --- 1
+gener languag model --- 1
+data --- 1
+reciproc peer --- 1
+microscop event --- 1
+retriev-inform filter --- 1
+robust --- 4
+softwar architectur --- 1
+scrip system --- 1
+profit --- 1
+data-access hierarchi --- 1
+connector-base model of multi-agent interact --- 1
+job shop schedul --- 1
+satellit swarm --- 1
+multipl concurr task --- 1
+interact of buyer and seller --- 1
+match strategi --- 1
+servic end-to-end qualiti --- 1
+effici mechan --- 1
+norm framework --- 1
+peer-to-peer file system --- 1
+retriev and result merg --- 1
+edg densiti condit --- 1
+word signal --- 1
+posterior function --- 1
+social network --- 4
+rescu mission --- 1
+cooper distribut problem solv --- 1
+contextawar --- 1
+global alloc --- 1
+coalit game theori --- 2
+disput agent --- 1
+web --- 1
+rate --- 3
+topic detect and track --- 1
+target decai --- 1
+random sensor placement --- 1
+resourc discoveri --- 1
+polynomi commun --- 2
+novel learn algorithm --- 1
+optim strategi --- 1
+uddi registri --- 1
+virtual server --- 1
+emot --- 1
+acoust sourc local --- 1
+k-orbit --- 1
+min-cost flow problem --- 1
+social law --- 1
+pervas document edit and manag system --- 2
+oper context --- 1
+dim --- 1
+share --- 1
+valu function propag --- 2
+larg-scale search engin --- 1
+high fault-toler --- 1
+observ action --- 1
+probabl of success --- 1
+avail --- 1
+oper context vector represent --- 1
+zero risk --- 1
+stream servic --- 1
+storag --- 1
+home-network scenario --- 1
+revers auction --- 1
+dip --- 1
+inform-channel refin --- 1
+path toward equilibrium --- 1
+distribut system --- 5
+asynchron replic --- 1
+extern behavior --- 1
+financi secur --- 1
+context --- 1
+inform retriev system --- 3
+data dissemin --- 1
+manual labor --- 1
+model methodolog --- 2
+combinatori optim problem --- 1
+content-base video retriev --- 1
+link stuf --- 1
+equilibrium multitud --- 1
+expertis search --- 1
+connect-four game --- 1
+grid comput --- 9
+mrf model --- 1
+process descript --- 1
+convers procedur --- 1
+adversari multiag domain --- 1
+market system --- 1
+approxim solut --- 1
+deadlin --- 1
+institut --- 1
+time-travel text search --- 1
+schedul agent --- 1
+queri context --- 1
+featur select --- 2
+social interact --- 1
+rank rule --- 1
+3d spatial extens --- 1
+altern propos --- 1
+text classifi --- 1
+extract titl us --- 1
+imperfect inform --- 1
+measur valu function theori --- 1
+text content --- 1
+surrog measur --- 1
+reactiv and delib architectur --- 1
+rule-base reason --- 1
+keyword target advertis --- 1
+audio and video clip --- 1
+revenu maxim --- 1
+correl equilibrium --- 1
+strateg behavior of trader --- 1
+custom servic manag --- 1
+group --- 1
+web search engin --- 4
+central index --- 1
+bayesian hierarch model --- 1
+algorithm game theori --- 2
+pss --- 1
+conceptu ir model --- 1
+barter --- 1
+email messag --- 1
+larg-scale network system --- 1
+market score rule --- 1
+transfer util --- 1
+relev distribut --- 2
+congest charg servic --- 1
+request messag --- 1
+distribut index structur --- 1
+cost share connect game --- 1
+sub-task reloc --- 1
+intermitt network connect --- 1
+weak ranker --- 1
+candid gener --- 1
+learn from commun --- 1
+document collect --- 1
+bandwidth --- 1
+web object --- 1
+subgraph --- 1
+suppli-chain trade --- 1
+support vector machin --- 3
+bilingu --- 1
+map of wireless broadcast data --- 1
+queri term match --- 1
+resourc alloc system --- 1
+vector clock --- 1
+parallel comput --- 2
+mcdm --- 1
+semi-cooper multi-agent system --- 1
+wide area network --- 1
+self-organis --- 1
+decis make mechan --- 1
+modal logic --- 2
+bilater exchang --- 1
+systemat method for paramet tune across multipl corpora --- 1
+deploy strategi --- 1
+branch-and-price --- 1
+kidnei --- 1
+fast-pace environ --- 1
+restrict --- 1
+content address storag --- 1
+high perform comput --- 1
+progress adapt user select environ --- 1
+iter domin --- 1
+messag-orient middlewar --- 1
+multipl agent --- 1
+batch schedul --- 1
+unicast --- 1
+content-base filter --- 1
+model check --- 2
+journei length --- 1
+list rank accuraci --- 1
+market clear --- 1
+unanim --- 1
+purchas --- 2
+internet worm --- 1
+normal discount cumul gain measur --- 1
+resultset object --- 1
+client --- 1
+power of player --- 1
+agent level --- 1
+advanc bid agent --- 1
+improv queri --- 1
+fallback outcom --- 1
+trec document collect --- 1
+queri expans --- 8
+primal-dual techniqu --- 1
+overlai --- 1
+manet --- 1
+time complex --- 1
+topic and organiz structur --- 1
+spatial queri evalu --- 1
+middlewar for mobil comput --- 1
+multipl goal of increas prioriti --- 1
+negoti framework --- 1
+usabl overhead --- 1
+emul --- 1
+set predic --- 1
+similar measur --- 1
+local and sequenti inform of document --- 1
+qo --- 2
+data mine --- 1
+visit popular --- 1
+free-ride --- 1
+initi endow of monei --- 1
+slack --- 1
+commodit --- 1
+social choic theori --- 1
+teamwork schema --- 1
+rang-base local --- 1
+second price --- 1
+knn --- 1
+network support --- 1
+wireless data dissemin --- 1
+electron institut --- 1
+imag search --- 1
+parametr model --- 1
+distribut environ --- 2
+distribut alloc --- 1
+three simultan speaker suffici --- 1
+kl-diverg --- 2
+multi-agent schedul --- 1
+content-base imag retriev --- 1
+data repositori --- 1
+sequenti deploy --- 1
+spheric score rule --- 1
+accuraci --- 2
+independ poisson process --- 1
+algorithm and problem complex analysi --- 1
+distribut of relev --- 1
+collabor --- 2
+framework --- 3
+degre --- 1
+specif meta-knowledg --- 1
+data assimil methodolog --- 1
+organ --- 1
+invert index --- 1
+semant web --- 1
+onlin comput --- 1
+object pop problem --- 1
+manifold --- 1
+buyer and seller interact --- 1
+auction-style mechan --- 1
+organiz structur --- 3
+new volum --- 1
+wireless broadcast data map --- 1
+person inform retriev --- 1
+branch and bound search --- 1
+linguist featur --- 1
+overal commun overhead --- 1
+dynam network infrastructur --- 1
+passag extract --- 1
+sequenti game of imperfect inform --- 1
+parallel execut --- 1
+busi valu metric --- 1
+match mechan --- 1
+low-dimension factor space --- 1
+mix-queri situat --- 1
+mobil devic --- 1
+queri histori inform --- 1
+natur chunk boundari --- 1
+bl collect --- 1
+clickthrough --- 2
+bittorr --- 1
+intrus detect system --- 1
+logist regress --- 2
+interact dynam influenc diagram --- 1
+languag model framework --- 1
+market characterist --- 1
+re-find inform --- 1
+context factor --- 1
+mean of reach consensu --- 1
+adapt process --- 1
+onlin trade --- 1
+induct learn --- 1
+redistribut payment --- 1
+peer-to-peer applic --- 1
+share topic detect --- 1
+correct granular --- 1
+object pop --- 1
+request --- 1
+analysi of algorithm and problem complex --- 1
+replic strategi --- 1
+anarchi price --- 3
+duti cycl rate --- 1
+fix treewidth --- 1
+margin distribut --- 1
+increment gossip protocol --- 1
+agent spawn --- 1
+probabilist paramet --- 1
+ﬂexibl user feedback --- 1
+modern equiti market --- 1
+qualiti of context --- 1
+duti cycl --- 1
+long-term context --- 1
+fix coeffici interpol --- 1
+player --- 1
+inform --- 3
+probabl --- 4
+heterogen non-dedic platform --- 1
+aggreg process --- 1
+inform share --- 1
+bound methodolog --- 1
+herm design --- 1
+comput grid --- 1
+chi-squar featur select --- 1
+two-stage game --- 1
+index timestamp --- 1
+interoper --- 2
+coordin sens --- 1
+simpl factual question --- 1
+embed cross-valid --- 1
+direct multi graph --- 1
+consum agent --- 1
+event model --- 1
+peer-to-peer inform retriev system --- 1
+undo --- 1
+branch and bound heurist search techniqu --- 1
+ident resourc --- 1
+descript logic --- 1
+disjunct hypothesi --- 1
+assign of author --- 1
+direct-deliveri protocol --- 1
+calib estim accuraci --- 1
+queri packet --- 1
+outrank approach --- 1
+graph topolog --- 2
+utilitarian interpret --- 1
+price categori --- 1
+depth first search --- 1
+interact protocol --- 1
+virtual conferenc environ --- 1
+ranknet --- 1
+visual inform retriev --- 1
+inform search and share --- 1
+flood --- 1
+relat databas system --- 1
+belief desir intent --- 1
+open comput system --- 1
+distribut control --- 1
+np-hard --- 2
+rout stagequ --- 1
+local limit --- 1
+express bet --- 1
+head word detect --- 1
+sensor field --- 1
+dead-reckon vector --- 1
+updat-upk-downj strategi --- 1
+load-depend failur --- 2
+voip traffic sensit --- 1
+effici market --- 1
+transact --- 1
+multidimension rang queri --- 1
+tigr grid middlewar --- 1
+vickrei-clark-grove mechan --- 1
+particip --- 1
+sequenti decis make --- 1
+t-strategi --- 1
+viral market --- 2
+train data --- 1
+u-shape distribut --- 1
+flatclust --- 1
+disambigu result --- 1
+grid --- 1
+vari complex --- 1
+medium complex --- 1
+distribut comput --- 3
+asynchron messag middlewar --- 1
+ner --- 1
+interpret implicit relev feedback --- 1
+sigmoid function --- 1
+network --- 4
+search strategi --- 1
+local search engin --- 1
+sentenc detect --- 1
+instanc gener --- 1
+coalit --- 1
+queri process --- 1
+congest control --- 1
+norm conflict --- 2
+minim explan --- 1
+black-box --- 1
+locat depend data --- 1
+combin market capit --- 1
+individu learn process --- 1
+text stream --- 1
+hit algorithm --- 1
+queri re-formul --- 1
+market comput --- 1
+zero relev judgment --- 1
+intrins geometr structur --- 1
+social psycholog --- 1
+role plai game --- 1
+self orient --- 1
+share topic --- 1
+learn --- 2
+optim action --- 1
+project game model --- 1
+vwap --- 1
+strateg posit --- 1
+degre-bound graph --- 1
+interact queri expans featur --- 1
+market barrier --- 1
+public displai --- 1
+shortest path algorithm --- 1
+variou sociallydesir properti --- 1
+metada extract --- 1
+probabl approxim correct --- 1
+implicit relev feedback --- 2
+client-server --- 1
+causal relationship --- 1
+iter auction mechan --- 1
+inform process --- 1
+gradient search scheme --- 1
+strateg agent --- 1
+local error --- 1
+market institut --- 1
+harvest-awar power manag --- 1
+remot displai --- 1
+session trail --- 1
+baselin expertis retriev method --- 1
+temporalloc --- 1
+bit number --- 1
+human perform --- 1
+judgment aggreg rule --- 1
+interest --- 1
+vector timestamp --- 1
+wireless sensor network-base mobil countersnip system --- 1
+busi logic layer --- 1
+channel refin --- 1
+dynam --- 1
+xgrid --- 1
+problem-solv --- 1
+segment genet databas --- 1
+comput game theori --- 1
+non-redund --- 1
+rank model --- 1
+social welfar function --- 1
+ratio --- 1
+network support for real-time multimedia --- 1
+sensor fusion --- 1
+sensor group --- 1
+spars data environ --- 1
+web search rank --- 2
+game-either full omnisci knowledg --- 1
+ndcg metric --- 1
+multipl document --- 1
+graph --- 2
+period event --- 1
+p2p --- 1
+eval valu --- 1
+phonet index --- 1
+sublist materi --- 1
+thin-client comput --- 1
+bandwidth probe --- 1
+payoff --- 1
+selfinterest user --- 1
+trade sequenc --- 1
+buddycach --- 1
+overal joint reward --- 1
+adversari environ --- 1
+comput complex --- 5
+flat hierarchi --- 1
+human-agent team perform --- 1
+weak monoton --- 1
+multiag environ --- 2
+vickrei-clark-grove --- 4
+internet-base servic --- 1
+event-base commun --- 1
+grid servic discoveri --- 1
+arbitrari logic combin --- 1
+object speech qualiti measur --- 1
+network latenc --- 2
+pairwis similar graph --- 1
+retriev model --- 2
+xml cumul gain metric --- 1
+multiag applic --- 1
+action-bound mechan --- 1
+unobserv-queri model --- 1
+ldd --- 1
+gener markov model --- 1
+ebai --- 1
+jxta --- 1
+collus --- 1
+top return imag --- 1
+document rank --- 1
+distribut execut --- 1
+java messag servic --- 1
+distribut real-time emb system --- 1
+enkf --- 1
+distribut multi-player game --- 4
+high-qualiti photo search --- 1
+evolutionari stabl strategi --- 1
+defect behaviour --- 1
+multi-agent coordin --- 1
+coordin spectrum sens --- 1
+agent behavior predict --- 1
+theori of measur valu function --- 1
+polynomi number of queri --- 1
+autom mechan design --- 2
+porter stemmer --- 1
+norm structur --- 1
+sentenc fragment --- 1
+bid-ask queue --- 1
+featur-base approach --- 1
+zero-sum encount --- 1
+real-time dynam program --- 1
+action-select random --- 1
+margin-decreas piecewis constant curv --- 1
+omnirpc --- 1
+rout polici --- 2
+ad placement strategi --- 1
+resourc --- 3
+equilibrium price --- 1
+e-mail prioriti rank --- 1
+multinomi distribut --- 1
+crisi manag --- 1
+elicit algorithm --- 1
+unifi util maxim model --- 1
+price function --- 1
+decomposit for multipl adversari --- 1
+deal --- 1
+invers document frequenc --- 2
+multi-agent distribut system --- 1
+base secur --- 1
+treewidth --- 1
+gossip protocol --- 1
+pareto effici condit extort --- 1
+semant-syntact match --- 1
+aperiod event --- 1
+opinion --- 1
+column gener --- 1
+novelti detect --- 1
+commit-base interact --- 1
+score fusion method --- 1
+dynam environ --- 1
+human similar percept --- 1
+resourc alloc --- 8
+ir model --- 1
+learn-base approach --- 1
+star cluster algorithm --- 1
+em algorithm --- 1
+titl extract --- 1
+algorithm --- 8
+distribut algorithm --- 2
+exposur problem --- 1
+secur multi-parti comput --- 1
+argument framework --- 1
+support of chariti --- 1
+context inform --- 1
+distribut inform market --- 1
+learn agent --- 1
+diffus of innov --- 1
+document classifi --- 1
+first person shooter --- 1
+electron commun network --- 1
+incent for cooper --- 1
+prune index --- 1
+search perform --- 1
+separ of data --- 1
+geograph ir --- 1
+textual string --- 1
+vector space-base algorithm --- 1
+servic level agreement --- 1
+vocabulari set --- 1
+high-bandwidth local-area network --- 1
+digit video applic --- 1
+mediat --- 3
+mechansm design --- 1
+object function --- 1
+morri's theorem --- 1
+congest game --- 1
+approxim scheme --- 1
+pro --- 1
+mutat set --- 1
+game theori --- 13
+dht --- 1
+affin maxim --- 1
+homogen good --- 1
+comput simul --- 1
+tree-base bid languag --- 1
+control inform --- 1
+determinist mechan --- 1
+empir score distribut --- 1
+multilinear function --- 1
+extens parallel graph --- 1
+time-inconsist prefer --- 1
+event thread --- 1
+makespan minim --- 1
+map --- 2
+rang-base approach --- 1
+the processor idl time --- 1
+leadership model --- 1
+expect --- 2
+exposur --- 1
+deploy --- 1
+term-base feedback --- 1
+write-domin attribut --- 1
+distribut set --- 1
+surpris factor --- 1
+person inform repositori --- 1
+track causal --- 1
+topolog constraint --- 1
+sensor network --- 7
+payment willing function --- 1
+partial observ markov decis problem --- 1
+sentient object --- 1
+document-term matrix --- 1
+queri --- 3
+robust queri expans techniqu --- 1
+oper semant --- 2
+bid price --- 1
+visual art --- 1
+extens empir analysi --- 1
+spectrum alloc --- 1
+game --- 2
+retriev perform --- 3
+patten recognit --- 1
+data grid --- 1
+topic detect --- 5
+passag-level inform retriev --- 1
+combinatori agenc --- 1
+paid placement strategi --- 1
+uniqu map --- 1
+asymmetr laplac distribut --- 1
+penni-jump --- 1
+dynam and larg scale network --- 1
+svm --- 1
+properti --- 1
+environ model --- 1
+granular --- 1
+rang-free scheme --- 1
+power scale --- 1
+selfish agent --- 1
+sequenti commit type --- 1
+overal payoff --- 1
+label predict --- 1
+scenario --- 1
+virtual node --- 1
+protocol --- 3
+document retriev --- 3
+dynam program --- 1
+ration expect --- 1
+oov search --- 1
+data broadcast system --- 1
+system dynam --- 1
+search tree --- 1
+task and resourc alloc in agent system --- 1
+data manag --- 1
+random mobil model --- 1
+mtc --- 1
+posterior probabl --- 1
+interact influenc diagram --- 1
+search --- 1
+ascend auction --- 1
+success probabl --- 1
+concret negoti model --- 1
+inform nugget --- 1
+experiment public advertis system --- 1
+approxim algorithm --- 3
+hidden action --- 1
+keyword queri --- 1
+topic align --- 1
+consum --- 1
+reason --- 2
+synchron --- 1
+interv tree --- 1
+compound secur market --- 2
+commodit market --- 1
+simultan auction --- 1
+heterogen intrus detect system --- 1
+inform aggreg --- 4
+info-share --- 1
+market price --- 1
+collabor filter --- 2
+persuas argument --- 1
+read-domin attribut --- 1
+recal measur --- 1
+treatment group --- 1
+complex --- 2
+modular --- 1
+onlin review --- 1
+hit --- 2
+multipl --- 1
+quantit trade strategi --- 1
+thread --- 1
+connect network --- 1
+frugal ratio --- 1
+continu replic applic --- 1
+quantit evalu --- 1
+multipoint commun --- 1
+bayesian estim --- 1
+timestamp inform feed --- 1
+bidder --- 1
+link commun --- 1
+lowerest-confid comparison --- 1
+googl person search --- 1
+cda --- 1
+machin learn for inform retriev --- 1
+polici manag --- 1
+sum infomorph --- 1
+geograph restrict --- 1
+bigram languag model --- 1
+content-base queri --- 1
+deep web --- 1
+aggreg effect --- 1
+switch behaviour --- 1
+sip --- 1
+dynam logic --- 1
+duplic photo detect algorithm --- 1
+empir mechan design --- 1
+increment updat --- 1
+breadth-first search crawl --- 1
+us of extract titl --- 1
+bioinformat --- 1
+global util --- 1
+sensor data --- 1
+majoritarian method --- 1
+perform scale --- 1
+combinatori exchang --- 1
+agenc theori --- 1
+real-time server compon --- 1
+tempor logic --- 1
+area-sweep problem --- 1
+internet --- 2
+scene label --- 1
+spatial databas --- 1
+new stori stream --- 1
+event-base framework --- 1
+mobil --- 2
+time constraint --- 1
+interact partial observ markov decis process --- 1
+artifici latenc --- 1
+parallel interact --- 1
+depend precis --- 1
+budget-balanc mechan --- 1
+interact retriev --- 3
+autom agent vote --- 1
+frame-base codec --- 1
+voip traffic --- 1
+monoton alloc rule --- 1
+imag process --- 1
+task perform --- 1
+relat queri --- 1
+bayesian network --- 2
+extract summar --- 1
+distribut sensor network --- 1
+reput model --- 1
+commit machin framework --- 1
+interest aspect --- 1
+opportun cost --- 1
+regular --- 3
+simplifi instanti of zebroid --- 1
+optim boundari --- 1
+linear-threshold function --- 1
+player number --- 1
+seller valuat function --- 1
+compon dialogu --- 1
+inform extract --- 1
+decis-theoret model --- 1
+reciproc decis function --- 1
+cluster of topic --- 1
+domain knowledg --- 1
+rank by revenu --- 1
+power manag --- 1
+adapt --- 3
+non-truth function --- 1
+gnutellum network --- 1
+experiment --- 2
+learn set --- 1
+clock synchron --- 1
+document --- 2
+edg index --- 1
+approxim factor --- 1
+symmetr distribut --- 1
+term relat --- 1
+rankboost --- 1
+convex domain --- 1
+multiag interact --- 1
+bilater trade partner --- 1
+automat titl extract --- 1
+agent commun languag --- 1
+semin event --- 1
+extern knowledg --- 1
+pai-per-click --- 1
+inform theori --- 1
+keyword match --- 1
+dai --- 1
+monopoli --- 1
+static expans approach --- 1
+pair-bet market --- 1
+decis threshold --- 1
+partnership --- 1
+kripk structur --- 2
+genr --- 1
+perfect substitut --- 1
+open sourc search-engin nutch --- 1
+rank robust techniqu --- 1
+weight bipartit graph --- 1
+integr of id --- 1
+decentr partial-observ markov decis process --- 1
+receiv-driven overlai --- 1
+ambigu --- 1
+probabl estim --- 1
+social choic function --- 1
+multipl administr domain --- 1
+constraint program --- 2
+naturalist approach --- 1
+gs-dr-ll --- 1
+vector represent of oper context --- 1
+demand queri --- 1
+mpeg-7 --- 1
+possibl --- 1
+result algorithm --- 1
+snippet gener --- 1
+autonom learn agent --- 1
+bamboo dht code --- 1
+disjoint of document --- 1
+cross-benchmark evalu --- 1
+java --- 1
+meta-reason --- 1
+person web search --- 2
+dynam equilibrium --- 1
+monoton properti --- 1
+consum prefer --- 1
+system usabl --- 1
+caption featur --- 1
+result comput algorithm --- 1
+charact insert --- 1
+onlin auction --- 1
+tempor text index --- 1
+ma-consist --- 1
+search task complex --- 1
+instantan decis make --- 1
+bid mechan --- 1
+util of gener knowledg --- 1
+extend tree travers routin --- 1
+event distribut --- 2
+grid-enabl --- 1
+rocchio-style method --- 1
+metada of document --- 1
+least squar regress model --- 1
+grid servic for intrus detect --- 1
+text fragment --- 1
+onlin algorithm --- 2
+distribut content manag --- 1
+independ estim --- 1
+granular differ --- 1
+respons polici --- 1
+hybrid system --- 1
+compound secur --- 1
+sensor-group --- 1
+multiattribut auction --- 2
+sampl frequenc --- 1
+network link --- 1
+distribut constraint optim --- 1
+reactiv decis rule --- 1
+market effect --- 1
+payment redistribut --- 1
+inform filter --- 2
+gameshrink --- 1
+distribut constraint satisfact problem --- 1
+linguist us --- 1
+inequ in welfar --- 1
+cross-corpu paramet optim --- 1
+cooper agent --- 2
+local domain --- 1
+car densiti --- 1
+domin perform cost --- 1
+textual databas --- 1
+tempor order document --- 1
+epidem messag middlewar --- 1
+physic clock --- 1
+keyword extract --- 1
+optim solut --- 2
+class-condit densiti --- 1
+dcsp --- 1
+inform manag system --- 1
+feder databas --- 1
+extend markov track --- 1
+netbil interact --- 1
+conflict-driven approach --- 1
+qualiti of servic --- 3
+internet-enabl databas manag system --- 1
+web object-rank --- 1
+web search --- 7
+real-time audio --- 1
+baselin retriev --- 1
+unaccount price --- 1
+loss --- 1
+natur strengthen --- 1
+stochast model --- 1
+nonlinear video edit --- 1
+agent commun languag and protocol --- 2
+web applic --- 1
+multi-dimension trust --- 1
+person inform manag --- 1
+agent-base deploi applic --- 1
+self-control problem --- 1
+rank photo --- 1
+bayesian and stackelberg game --- 1
+theori --- 1
+observ-queri model --- 1
+partnership format --- 1
+imag represent --- 1
+repositori size --- 1
+tfrc --- 1
+optim experiment design --- 1
+sampl-base codec --- 1
+rank retriev system --- 1
+deep web crawler --- 1
+index scheme --- 2
+bid agent --- 1
+spectrum --- 1
+game theoret properti --- 1
+ineffici compromis --- 1
+effici --- 2
+second-price payment rule --- 1
+supervis and unsupervis learn techniqu --- 1
+proxi bid --- 1
+cluster --- 2
+resourc manag protocol --- 1
+word-of-mouth commun --- 1
+comput properti of the process --- 1
+fine-grain share --- 2
+link graph --- 1
+laser --- 1
+hybrid --- 1
+nonneg cycl properti --- 1
+autonom control --- 1
+mutual consist --- 1
+cluster hierarchi --- 1
+stochast environ --- 2
+distribut intrus detect system --- 1
+valid set --- 1
+cooper --- 3
+context-independ --- 1
+multiwai classif --- 1
+mix-integ linear program --- 1
+iter elimin of weakli domin strategi --- 1
+onlin model --- 1
+formal method --- 1
+topic track --- 3
+singl-document segment --- 1
+distribut oper system backbon --- 1
+semi-supervis learn --- 1
+continu doubl auction --- 2
+myriad --- 1
+quasilinear --- 1
+person inform protect --- 1
+cscw --- 1
+real-time transact --- 1
+wager --- 1
+machin learn --- 9
+stackelberg model --- 1
+learn mechan --- 1
+recoveri mechan --- 1
+psycholog inconsist --- 1
+margin revenu --- 1
+limit order book trade model --- 1
+dissemin qualiti --- 1
+object-orient applic --- 1
+submodular --- 1
+socrat game --- 1
+bootstrap techniqu --- 1
+tempor local --- 2
+probabl function --- 1
+commun and coordin --- 1
+task and resourc alloc --- 3
+servic manag --- 1
+user behavior --- 1
+smart sensor --- 1
+minimum exposur --- 1
+reward function --- 1
+web retriev --- 1
+consum choic --- 1
+text search --- 1
+splog --- 1
+predict model --- 1
+queri segment --- 1
+crucial browser helper applic --- 1
+nash equilibrium --- 14
+fm aggreg --- 2
+document expans --- 1
+decis --- 1
+norm system game --- 1
+monoton concav util function --- 1
+ir --- 1
+multi-agent system --- 16
+spatial index method --- 1
+autonom distribut agent --- 1
+spectrum content manag system --- 1
+data transfer --- 1
+valid time-interv --- 1
+eda --- 1
+user-base and item-base algorithm --- 1
+eventu consist --- 1
+packet-level metric --- 1
+rank by bid --- 1
+servic-orient event correl --- 1
+re-rank algorithm --- 1
+re-weight train data --- 1
+advertis --- 4
+moder complex whilst --- 1
+tree structur --- 1
+combinatori auction protocol --- 1
+loss sensit --- 1
+relev measur --- 1
+digit librari --- 1
+event channel --- 2
+parallel degre --- 1
+oper system --- 1
+asymmetr gaussian --- 1
+nugget-match rule --- 1
+interv skip graph --- 1
+trader interfac --- 1
+privaci-preserv recommend system --- 1
+evolutionari game theori --- 1
+object-initi view model --- 1
+classif --- 2
+sever drawback --- 1
+concess --- 1
+place refer --- 1
+databas cach --- 1
+search result organ --- 1
+messag-pass --- 1
+equilibrium --- 4
+similar percept --- 1
+queri log --- 3
+pda thinclient solut --- 1
+empir mechan --- 1
+success negoti encount --- 1
+context sensit document match --- 1
+trec enterpris track --- 1
+frequenc-base probabl --- 1
+collabor strong-consist applic --- 1
+inform system applic --- 1
+distribut schedul --- 1
+xor bid --- 1
+qo-defin limit --- 1
+geograph type express --- 1
+structur oper semant --- 1
+paus auction --- 1
+content-target advertis --- 1
+state transit system --- 1
+infinit bui-in liquid --- 1
+gossip-base peer discoveri --- 1
+xml --- 1
+cooper game theori approach --- 1
+loud number --- 1
+inform retriev evalu experi --- 1
+strategi-proof --- 1
+maximin --- 1
+knowledg ambigu problem --- 1
+secur of agent system --- 1
+posit auction --- 1
+multi-issu represent --- 1
+summar --- 1
+global graph --- 1
+dynam alloc task --- 1
+contract --- 3
+profit deviat --- 1
+bidsecond-price auction --- 1
+central peer-to-peer approach --- 1
+objectag architectur --- 1
+singl sourc multipl sink --- 1
+click spam detect --- 1
+distribut logic --- 2
+pairwis kei --- 1
+cumul gain --- 1
+entiti --- 1
+rout protocol --- 1
+1degre trajectori precis --- 1
+plausibl notion --- 1
+optim auction design problem --- 1
+normal-form game --- 1
+learn to rank --- 1
+linear logic --- 1
+streamlin function --- 1
+adapt stranger polici --- 1
+depend recal --- 1
+multi-mind player --- 1
+real-world market environ --- 1
+discret-time schedul problem --- 1
+piggyback --- 1
+expert find --- 1
+score --- 1
+commun messag --- 1
+distribut intellig --- 1
+arrow's theorem --- 1
+rf spectrum --- 1
+blog --- 1
+class of stori --- 1
+real-time entiti --- 1
+futur event --- 1
+data separ --- 1
+web mine problem --- 1
+document detect --- 1
+alloc rule --- 1
+priori probabl distribut --- 1
+low power design --- 1
+trade strategi --- 1
+distribut applic --- 4
+weight super solut --- 2
+featur-by-featur estim of qualiti --- 1
+full-function web browser --- 1
+prefer --- 3
+auction-base scheme --- 1
+metasearch engin --- 1
+access --- 1
+peer fetch --- 1
+real-time visibl test --- 1
+relax --- 1
+feedback --- 1
+price-anticip mechan --- 1
+distribut pomdp --- 1
+languag model score --- 1
+edg cost --- 1
+low recal --- 1
+spotlight system --- 1
+monitor --- 1
+semant --- 2
+conflex-g --- 1
+spoken term detect --- 1
+collabor layout --- 1
+queri histori --- 1
+ipt protocol --- 1
+econom and financ --- 1
+mobil system --- 1
+simultan speaker --- 1
+central-server architectur --- 1
+decentr control --- 1
+norm posit --- 1
+multi-user oo7 benchmark --- 1
+ex post equilibrium --- 1
+volum weight averag price trade model --- 1
+simul --- 3
+test collect --- 1
+servic-orient manag --- 1
+race condit --- 1
+trade --- 2
+node sequenc process --- 1
+product --- 1
+utter --- 1
+homogen test collect --- 1
+diffusionrank --- 1
+bid withdraw --- 1
+histori buffer --- 1
+robot --- 1
+plan infer --- 1
+threshold payment --- 1
+favour hypothesi --- 1
+divid-and-conquer --- 1
+resourc select --- 2
+pseudotre arrang --- 1
+queri-select polici --- 1
+learn algorithm --- 2
+polici link --- 1
+probabl distribut --- 2
+distribut document retriev --- 1
+cluster view --- 1
+social network analysi --- 1
+cue term --- 1
+multitud of equilibrium --- 1
+pool licens --- 1
+prefer learn --- 1
+solut approach --- 1
+cost of the edg --- 1
+comput tree logic --- 2
+web object-rank problem --- 1
+concess notion --- 1
+compact represent scheme --- 1
+ppad-complet --- 1
+event insert --- 1
+keyword co-occurr --- 1
+intrus detect --- 1
+gridwai metaschedul --- 1
+quantit measur --- 1
+schedul algorithm --- 2
+agent-orient program languag --- 1
+pari-mutuel market --- 1
+special-purpos filesystem --- 1
+anim --- 1
+dynam virtual environ --- 1
+well-known mechan for resourc and task alloc --- 1
+weapon classif --- 1
+rout discoveri messag --- 1
+unrestrict aggreg of subgam --- 1
+schedul servic --- 1
+inter-relat event --- 1
+user behavior model --- 1
+agent model --- 1
+strateg incompat --- 1
+strateg multiplay environ --- 1
+strateg analysi --- 1
+target dynam --- 1
+queri modif term --- 1
+relationship --- 1
+short keyword queri --- 1
+comput support collabor work --- 2
+outrank method --- 1
+reward separ agent --- 1
+posit of top relev document --- 1
+stock trade --- 1
+multi-dimension rang queri --- 1
+candid elimin algorithm --- 1
+partial inform environ --- 1
+heurist search --- 1
+empir studi --- 1
+ad-hoc retriev --- 2
+worst case --- 1
+end-to-end qualiti of servic --- 1
+mutual cooper --- 1
+map function --- 1
+ot --- 1
+mc-net --- 1
+system-topic graph --- 1
+predict market --- 2
+idl queri --- 1
+node code --- 1
+data carrier --- 1
+framework and architectur --- 2
+expert search --- 1
+optim set of contract --- 1
+search accuraci --- 1
+immedi gratif --- 1
+search abus detect --- 1
+incent --- 4
+strategyproof --- 2
+output rank --- 1
+prefer aggreg --- 4
+queri perform predict --- 1
+packag weight adapt self-schedul --- 1
+msr --- 1
+invers oper --- 1
+automaton --- 1
+causal track --- 1
+analysi --- 2
+negoti strategi --- 2
+web queri --- 1
+pareto effici --- 1
+expans term --- 1
+feder search --- 1
+power index --- 1
+game-theoret diffus model --- 1
+search engin advertis --- 1
+design educ --- 1
+automat techniqu --- 1
+distribut text inform retriev resourc select --- 1
+wig --- 1
+grid intrus detect architectur --- 1
+teamwork coordin --- 1
+prefer handl --- 1
+prefer elicit algorithm --- 1
+loss metric --- 1
+solut --- 1
+innetwork aggreg --- 1
+global limit --- 1
+trust model --- 1
+proport feedback --- 1
+speech recognit --- 1
+abduct program --- 1
+task alloc --- 2
+soft state --- 1
+parent adequaci function --- 1
+manet p2p system --- 1
+rel price model --- 1
+maxflow-base algorithm --- 1
+user-centric on --- 1
+recognit algorithm --- 1
+manipul --- 1
+util-base distil --- 1
+mobil ad-hoc environ --- 1
+spatial distribut market --- 1
+interact kei form --- 1
+peer-to-peer --- 5
+formal model --- 1
+demand distribut --- 1
+pseudo-document --- 1
+text classif --- 2
+advertis revenu --- 1
+baselin system --- 2
+art testb --- 2
+expect mutual --- 1
+energi harvest --- 1
+game-theori --- 2
+initi procedur --- 1
+target languag queri log --- 1
+trajectori --- 1
+adjust autonomi --- 1
+increment coverag qualiti algorithm --- 1
+patrol domain --- 1
+perform and scalabl --- 1
+ambigu queri --- 1
+vad techniqu --- 1
+propag and deliveri --- 1
+simultan manner --- 1
+calib estim --- 1
+locat base servic --- 2
+inter-agent coordin --- 1
+middlewar architectur --- 1
+failur probabl --- 1
+definit question answer --- 1
+conform space search --- 1
+resourc manag --- 2
+id3 --- 1
+global optim solut --- 1
+data stage --- 1
+creat valu --- 1
+gener trade reduct --- 1
+demand --- 1
+utilitymaximis strategi --- 1
+swarm worm --- 1
+anonym technolog --- 1
+speak term detect --- 1
+decentralis multi-agent auction mechan --- 1
+task --- 1
+larg spatial data --- 1
+helmetmount microphon arrai --- 1
+gambl --- 2
+queri cost --- 1
+long term relationship --- 1
+genom project --- 1
+norm scene --- 1
+long-rang manipul strategi --- 1
+domain model --- 1
+risk alloc --- 2
+agent secur via approxim polici --- 1
+downstream pass --- 1
+human assessor --- 1
+intellig agent --- 2
+vickrei clark grove --- 1
+maximum constrain node --- 1
+reput --- 3
+multi-hop --- 1
+search output --- 1

@@ -1,0 +1,7 @@
+Instructions
+============
+
+Weka is a collection of machine learning algorithms for data mining tasks. You
+can learn more about the project here: http://www.cs.waikato.ac.nz/ml/weka/.
+
+The file that should be placed in this directory is the weka.jar file

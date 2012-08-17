@@ -1,0 +1,5 @@
+host: 127.0.0.1
+database: keyphrase
+username: user
+password: averystrongpasswordgoeshere
+socket: /var/lib/mysql/mysql.sock

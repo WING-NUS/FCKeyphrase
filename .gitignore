@@ -2,3 +2,9 @@
 .DS_Store
 database.yml
 keyphrase.xml
+/extractor/lib/mxtag/eos.project
+/extractor/lib/mxtag/tagger.project
+/extractor/lib/mxtag/mxpost.jar
+/extractor/lib/weka/weka.jar
+/extractor/lib/lapos-0.1.1/*.o
+/extractor/lib/lapos-0.1.1/lapos*

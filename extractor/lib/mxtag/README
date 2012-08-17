@@ -1,0 +1,30 @@
+Instructions
+============
+
+Files from the MXPOST project (c) 1997 Adwait Ratnaparkhi should
+be placed in this directory The software license can be found here:
+http://web.mit.edu/course/6/6.863/OldFiles/tools/jmx/LICENSE.html The files
+are available from http://web.mit.edu/course/6/6.863/OldFiles/tools/jmx/
+
+The files that should be placed in this directory (represented by "mxtag"
+in the diagram below) should follow the following structure:
+
+mxtag
+|-- eos.project
+|   |-- abbrev
+|   |-- features
+|   |-- features.contexts
+|   |-- features.fmap
+|   |-- model.info
+|   `-- model.param
+|-- mxpost.jar
+`-- tagger.project
+    |-- model.info
+    |-- model.param
+    |-- tag.voc
+    |-- tagdict
+    |-- tagfeatures
+    |-- tagfeatures.contexts
+    |-- tagfeatures.fmap
+    |-- train.log
+    `-- word.voc
